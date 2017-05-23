@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+SmooticusViewTool::Renderer.copyright 'Mitch Smoot', 'All rights reserved'
+```
 
 ## Development
 
